@@ -1,2 +1,2 @@
-# Fullstack_Resume-creator_Project
+# Resume-creator_Project
 Resume Creator
